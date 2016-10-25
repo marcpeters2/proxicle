@@ -1,0 +1,1 @@
+nodemon --debug bin/index --target=https://dev.mobile-backend.api.loyalty.com --port=5001
